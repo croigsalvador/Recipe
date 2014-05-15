@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D92D3AC9-736F-40C0-84CB-7E6BB4A37651</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Recipe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC274826-C2A2-4BE2-9676-12EF8E40569C</key>
+		<string>https://github.com/roxeman3/Recipe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Recipe.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC274826-C2A2-4BE2-9676-12EF8E40569C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/roxeman3/Recipe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC274826-C2A2-4BE2-9676-12EF8E40569C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC274826-C2A2-4BE2-9676-12EF8E40569C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Recipe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
